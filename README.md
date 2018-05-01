@@ -1,5 +1,5 @@
 
-# Introduction to data science
+# Introduction to Data Science
 
 ### Welcome
 
@@ -11,13 +11,13 @@ Data science is a good place to be.
 
 ![](./structured-unstructured.png)
 
-The **amount** of is increasing each year, and data scientists like us will be needed to collect and interpret this data.  All of that *unstructured data* included in audio and video may seem difficult to capture, but more and more tools available to data scientists to harness the information in these digita formats.
+The **amount** of is increasing each year, and data scientists like us will be needed to collect and interpret this data.
 
-As you may have guessed, more companies are then willing to pay data scientists who have the skills to collect this information and turn them into insights.
+As you may have guessed, more companies are looking for data scientists who have the skills to collect this information and turn them into insights.
 
 ![](./data-science-postings.png)
 
-Let's spend take another look at this chart.  In 2017, there were *five times* number of data science job postings as in there were three years earlier.  That's a lot.  
+Let's spend take another look at this chart.  In 2017, there were *five times* number of data science job postings as in there were three years earlier.
 
 And it's not just businesses that make use of this information.  
 * In 2015, forty percent of federal agencies had a chief data officer.  
