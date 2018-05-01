@@ -11,9 +11,13 @@ Data science is a good place to be.
 
 ![](./structured-unstructured.png)
 
-The **amount** of data increases year by year, and data scientists like us will be needed to collect and interpret this data.   
+The **amount** of is increasing each year, and data scientists like us will be needed to collect and interpret this data.  All of that *unstructured data* included in audio and video may seem difficult to capture, but more and more tools available to data scientists to harness the information in these digita formats.
+
+As you may have guessed, more companies are then willing to pay data scientists who have the skills to collect this information and turn them into insights.
 
 ![](./data-science-postings.png)
+
+Let's spend take another look at this chart.  In 2017, there were *five times* number of data science job postings as in there were three years earlier.  That's a lot.  
 
 And it's not just businesses that make use of this information.  
 * In 2015, forty percent of federal agencies had a chief data officer.  
@@ -56,13 +60,13 @@ As a Flatiron School course, we designed the course to provide the following:
 
 *Practice*: The course is written to give you the skills to become a successful data scientist.  To do that, we have you code in Python every step of the way.  And we teach you techniques that practitioners use every step of the way.
 
-*Theory*  But your knowledge of data science should not end with this course.  The field of data science will continue to evolve, and you'll need to understand the reasoning and shifts in the future.  For that, we need you to reach to the reasoning behind the techniques, and yes that includes the underlying mathematics. 
+*Theory*:  But your knowledge of data science should not end with this course.  The field of data science will continue to evolve, and you'll need to understand the reasoning and shifts in the future.  For that, we need you to reach to the reasoning behind the techniques, and yes that includes the underlying mathematics. 
 
 **2. Accessible **
 
 This course was designed to be accessible to everyone. 
 
-*Math is a four letter word*.  We don't expect you to walk in here a math person.  We know that the just the word *math* provokes fear and boredom -- somehow simultaneously!  Still, we won't shy away from it.  Chances are you learned math through pencil and paper, not through programming graphs and equations that automatically respond to your inputs.
+*Math is a four letter word*:  Listen up, we do not expect you to walk in here a math person.  We know that the just the word *math* provokes fear and boredom -- somehow simultaneously!  Still, we won't shy away from it.  Chances are you learned math through pencil and paper, not through programming graphs and equations that automatically respond to your inputs.  It's time to give it a honest try.
 
 *Computer Science is a liberal art*.  We also don't expect you to have any knowledge of programming.  We'll get you there, and show you how to use it to make sense of data.
 
