@@ -33,9 +33,9 @@ Let's see this as a venn diagram:
 
 You can see from this diagram that data scientists need a range of skills. Let’s break those skills down a bit and review how they work together:
 
-** Programming Skills** -- to collect data, we need programming or coding skills to gather it. 
-** Business Intelligence ** -- to explore the data, we need a background in the data we are reviewing to provide context on how best to organize it. 
-** Math & Statistics Knowledge ** -- to make predictions with the data, we need to use statistics and machine learning to build a model.
+**Programming Skills** -- to collect data, we need programming or coding skills to gather it. 
+**Business Intelligence** -- to explore the data, we need a background in the data we are reviewing to provide context on how best to organize it. 
+**Math & Statistics Knowledge** -- to make predictions with the data, we need to use statistics and machine learning to build a model.
 
 This course will teach you the necessary programming skills in Python, as well as the math and statistical skills you’ll need to build prediction models. 
 
