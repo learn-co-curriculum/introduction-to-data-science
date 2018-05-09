@@ -3,56 +3,47 @@
 
 ### Welcome
 
-Nice job, the hardest part is over!  You made it here, to Flatiron School's Data Science course.
+Congratulations on signing up for  Flatiron School's Data Science Bootcamp Prep course on Learn.co. You’re in the right place to begin learning key foundational skills data scientists use every day.
 
 ### Why Data Science
 
-Data science is a good place to be.  
+Simply put, data science is where it’s at.
 
 ![](./structured-unstructured.png)
 
-The **amount** of is increasing each year, and data scientists like us will be needed to collect and interpret this data.
+The amount of captured data is increasing each year, and data scientists like us will be needed to collect and interpret this data.
 
-As you may have guessed, more companies are looking for data scientists who have the skills to collect this information and turn them into insights.
+As such, more companies are looking for data scientists who have the necessary skills to collect this information and turn them into meaningful insights.
 
 ![](./data-science-postings.png)
 
-Let's spend take another look at this chart.  In 2017, there were *five times* number of data science job postings as in there were three years earlier.
+Take a look at the chart above from indeed.com. In 2017, there were five times the number of data science job postings as there were three years earlier. 
+And it's not just businesses that are seeking to employ positions in data science.
 
-And it's not just businesses that make use of this information.  
-* In 2015, forty percent of federal agencies had a chief data officer.  
+* In 2015, forty percent of federal agencies had a chief data officer.
 * Data science has been used to forecast episodes of civil unrest and detect outbreaks of health crises like Ebola.
 
 ### What is data science?
 
-For our purposes, data science involves the following fields: programming, machine learning or statistical algorithms, and business intelligence.  
+For our purposes, data science involves the following fields: programming, machine learning or statistical algorithms, and business intelligence.
 
 Let's see this as a venn diagram:
 
 <img src="./VennDiagram_v2.png" alt="Drawing" style="width: 300px;"/>
 
-And, in solving problems, we will use the following process:
+You can see from this diagram that data scientists need a range of skills. Let’s break those skills down a bit and review how they work together:
 
-* **Collect**: Gather and clean the relevant data
-* **Explore**: Make sense of the data
-* **Train**: Choose  statistical or machine learning model and optimize the model based on the existing data
-* **Predict**: Make predictions with the trained model
+** Programming Skills** -- to collect data, we need programming or coding skills to gather it. 
+** Business Intelligence ** -- to explore the data, we need a background in the data we are reviewing to provide context on how best to organize it. 
+** Math & Statistics Knowledge ** -- to make predictions with the data, we need to use statistics and machine learning to build a model.
 
-So now you may have a sense of why data scientists need a range of skills:
+This course will teach you the necessary programming skills in Python, as well as the math and statistical skills you’ll need to build prediction models. 
 
-* To *collect* the data, 
-    * we need **programming** to gather and organize the data
+Ultimately, Business Intelligence will be determined by the job, industry, agency, or area of expertise you’ll be hired into as a data scientist. For the purposes of this course though, we’ll walk you through the background of a given project and describe what we’re aiming to solve. 
 
+In the process, we’ll explore a number of different subject areas (music, movies, even New York City taxi data!) giving you real-world practice so you can leverage data science as a skill for any organization capturing data.
 
-* In *exploring* the data
-    * we use **programming** and **business intelligence** skills
-
-
-* And in * training * and * predicting * 
-    * we use **statistics and machine learning** to build a model that makes predictions, 
-    * and **business intelligence** to provide context throughout this step
-
-### Data Science at Flatiron School
+### Next Up
 
 As a Flatiron School course, we designed the course to provide the following: 
 
@@ -76,8 +67,4 @@ Finally, we know that the best way to teach a subject is to get you to fall in l
 
 ### Dive in 
 
-The first section of the course focuses on the first steps of our data science process: collecting and exploring data.  Python and Python libraries will be our tool of choice.  We'll show you how to gather, organize and plot data with Python in these first lessons.
-
-The second part of the introductory course goes deeper into exploring and make predictions with our models.  This means that we will go deeper into data visualization and graphs, and then learn some machine learning algorithms for making predictions from our data. 
-
-Ok, let's dive in!
+Next up, we'll take a tour of the Python skills we will be utilizing as a data scientist.  Our overall recommendation is to stick with it. You’ve already done the hardest part of getting started. Log in here each day and you’ll be amazed at how quickly you’ll make progress towards becoming a data scientist.
