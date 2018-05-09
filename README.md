@@ -9,13 +9,13 @@ Congratulations on signing up for  Flatiron School's Data Science Bootcamp Prep 
 
 Simply put, data science is where it’s at.
 
-![](./structured-unstructured.png)
+![](https://s3.amazonaws.com/learn-verified/data-science-assets/structured-unstructured.png)
 
 The amount of captured data is increasing each year, and data scientists like us will be needed to collect and interpret this data.
 
 As such, more companies are looking for data scientists who have the necessary skills to collect this information and turn them into meaningful insights.
 
-![](./data-science-postings.png)
+![](https://s3.amazonaws.com/learn-verified/data-science-assets/data-science-postings.png)
 
 Take a look at the chart above from indeed.com. In 2017, there were five times the number of data science job postings as there were three years earlier. 
 And it's not just businesses that are seeking to employ positions in data science.
@@ -29,7 +29,7 @@ For our purposes, data science involves the following fields: programming, machi
 
 Let's see this as a venn diagram:
 
-<img src="./VennDiagram_v2.png" alt="Drawing" style="width: 300px;"/>
+<img src="https://s3.amazonaws.com/learn-verified/data-science-assets/VennDiagram_v2.png" alt="Drawing" style="width: 300px;"/>
 
 You can see from this diagram that data scientists need a range of skills. Let’s break those skills down a bit and review how they work together:
 
