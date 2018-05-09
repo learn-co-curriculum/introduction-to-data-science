@@ -29,7 +29,7 @@ For our purposes, data science involves the following fields: programming, machi
 
 Let's see this as a venn diagram:
 
-<img src="./ds-venn.png" alt="Drawing" style="width: 300px;"/>
+<img src="./VennDiagram_v2.png" alt="Drawing" style="width: 300px;"/>
 
 And, in solving problems, we will use the following process:
 
