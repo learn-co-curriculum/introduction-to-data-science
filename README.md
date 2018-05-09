@@ -53,7 +53,7 @@ As a Flatiron School course, we designed the course to provide the following:
 
 *Theory*:  But your knowledge of data science should not end with this course.  The field of data science will continue to evolve, and you'll need to understand the reasoning and shifts in the future.  For that, we need you to reach to the reasoning behind the techniques, and yes that includes the underlying mathematics. 
 
-**2. Accessible **
+**2. Accessible**
 
 This course was designed to be accessible to everyone. 
 
@@ -61,7 +61,7 @@ This course was designed to be accessible to everyone.
 
 *Computer Science is a liberal art*.  We also don't expect you to have any knowledge of programming.  We'll get you there, and show you how to use it to make sense of data.
 
-**3. Fall in Love **
+**3. Fall in Love**
 
 Finally, we know that the best way to teach a subject is to get you to fall in love with it.  So that's why we make sure to show you the power of each new skill you are learning, and the rich ideas underneath each new concept.  And it's why we have you code on our Learn platform that allows you to tap into the broader community of learners.
 
