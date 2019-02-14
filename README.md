@@ -17,7 +17,7 @@ As such, more companies are looking for data scientists who have the necessary s
 
 ![](https://s3.amazonaws.com/learn-verified/data-science-assets/data-science-postings.png)
 
-Take a look at the chart above from indeed.com. In 2017, there were five times the number of data science job postings as there were three years earlier.
+Take a look at the chart above from indeed.com. In 2017, there were five times the number of data science job postings as there were three years earlier. 
 And it's not just businesses that are seeking to employ positions in data science.
 
 * In 2015, forty percent of federal agencies had a chief data officer.
@@ -33,31 +33,31 @@ Let's see this as a Venn diagram:
 
 You can see from this diagram that data scientists need a range of skills. Let’s break those skills down a bit and review how they work together:
 
-**Programming Skills** -- to collect data, we need programming or coding skills to gather it.
-**Business Intelligence** -- to explore the data, we need a background in the data we are reviewing to provide context on how best to organize it.
+**Programming Skills** -- to collect data, we need programming or coding skills to gather it. 
+**Business Intelligence** -- to explore the data, we need a background in the data we are reviewing to provide context on how best to organize it. 
 **Math & Statistics Knowledge** -- to make predictions with the data, we need to use statistics and machine learning to build a model.
 
-This course will teach you the necessary programming skills in Python, as well as the math and statistical skills you’ll need to build prediction models.
+This course will teach you the necessary programming skills in Python, as well as the math and statistical skills you’ll need to build prediction models. 
 
-Ultimately, Business Intelligence will be determined by the job, industry, agency, or area of expertise you’ll be hired into as a data scientist. For the purposes of this course though, we’ll walk you through the background of a given project and describe what we’re aiming to solve.
+Ultimately, Business Intelligence will be determined by the job, industry, agency, or area of expertise you’ll be hired into as a data scientist. For the purposes of this course though, we’ll walk you through the background of a given project and describe what we’re aiming to solve. 
 
 In the process, we’ll explore a number of different subject areas (music, movies, even New York City taxi data!) giving you real-world practice so you can leverage data science as a skill for any organization capturing data.
 
 ### Next Up
 
-As a Flatiron School course, we designed the course to provide the following:
+As a Flatiron School course, we designed the course to provide the following: 
 
 **1. Practice with Theory**
 
 *Practice*: The course is written to give you the skills to become a successful data scientist.  To do that, we have you code in Python every step of the way.  And we teach you techniques that practitioners use every step of the way.
 
-*Theory*:  But your knowledge of data science should not end with this course.  The field of data science will continue to evolve, and you'll need to understand the reasoning and shifts in the future.  For that, we need you to reach to the reasoning behind the techniques, and yes that includes the underlying mathematics.
+*Theory*:  But your knowledge of data science should not end with this course.  The field of data science will continue to evolve, and you'll need to understand the reasoning and shifts in the future.  For that, we need you to reach to the reasoning behind the techniques, and yes that includes the underlying mathematics. 
 
 **2. Accessible**
 
-This course was designed to be accessible to everyone.
+This course was designed to be accessible to everyone. 
 
-*Math is a four letter word*:  Listen up, we do not expect you to walk in here a math person.  We know that the just the word *math* provokes fear and boredom -- somehow simultaneously!  Still, we won't shy away from it.  Chances are you learned math through pencil and paper, not through programming graphs and equations that automatically respond to your inputs.  It's time to give it a honest try.
+*Math is a four letter word*:  Listen up, we do not expect you to walk in here a math person.  We know that just the word *math* provokes fear and boredom -- somehow simultaneously!  Still, we won't shy away from it.  Chances are you learned math through pencil and paper, not through programming graphs and equations that automatically respond to your inputs.  It's time to give it an honest try.
 
 *Computer Science is a liberal art*.  We also don't expect you to have any knowledge of programming.  We'll get you there, and show you how to use it to make sense of data.
 
@@ -65,6 +65,6 @@ This course was designed to be accessible to everyone.
 
 Finally, we know that the best way to teach a subject is to get you to fall in love with it.  So that's why we make sure to show you the power of each new skill you are learning, and the rich ideas underneath each new concept.  And it's why we have you code on our Learn platform that allows you to tap into the broader community of learners.
 
-### Dive in
+### Dive in 
 
 Next up, we'll take a tour of the Python skills we will be utilizing as a data scientist.  Our overall recommendation is to stick with it. You’ve already done the hardest part of getting started. Log in here each day and you’ll be amazed at how quickly you’ll make progress towards becoming a data scientist.
